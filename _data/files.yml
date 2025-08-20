@@ -1,0 +1,13 @@
+- name: 年度报告.docx
+  url:  https://mycompany.com/docs/report.docx
+  icon: docx
+
+- name: 产品手册.pdf
+  url:  https://mycompany.com/docs/manual.pdf
+  icon: pdf
+
+- name: 源代码.zip
+  url:  https://mycompany.com/code/source.zip
+  icon: zip
+
+# …想再加文件，继续往下写即可
