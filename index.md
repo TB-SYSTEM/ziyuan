@@ -1,9 +1,9 @@
 ---
 layout: default
-title: TB-SYSTEM的下载站点(提取码:1234)
+title: TB-SYSTEM的下载站点
 ---
 
-# TB-SYSTEM的下载站点(提取码:1234)
+# TB-SYSTEM的下载站点
 
 {% for f in site.data.files %}
 <div class="card">

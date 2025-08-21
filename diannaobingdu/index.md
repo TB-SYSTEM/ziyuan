@@ -1,9 +1,9 @@
 ---
 layout: default
-title: TB-SYSTEM的下载站点(提取码:1234)
+title: 电脑病毒(提取码:1234)
 ---
 
-# TB-SYSTEM的下载站点(提取码:1234)
+# 电脑病毒(提取码:1234)
 
 {% for f in site.data.files %}
 <div class="card">
