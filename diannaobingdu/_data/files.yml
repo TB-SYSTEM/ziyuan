@@ -1,15 +1,13 @@
 - name: 程序安装-Installer2（银狐X1）
   url:  https://www.123912.com/s/vEAVVv-RmjvH
-  icon: exe
+  icon: zip
 
 - name: 银狐X1
   url:  https://www.123912.com/s/vEAVVv-DmjvH
-  icon: exe
+  icon: zip
 
 - name: WindowsXPHorrorEdition-Clean
   url:  https://www.123912.com/s/vEAVVv-8mjvH
-  icon: exe
+  icon: zip
 
-- name: 电脑病毒
-  url:  https://tb-system.github.io/ziyuan/diannaobingdu
-  icon: exe
+# …想再加文件，继续往下写即可
