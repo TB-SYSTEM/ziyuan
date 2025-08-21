@@ -1,5 +1,5 @@
 ---
-layout: diannaobingdu/default
+layout: default
 title: 电脑病毒(提取码:1234)
 ---
 
